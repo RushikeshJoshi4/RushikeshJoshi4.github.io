@@ -3,8 +3,8 @@ layout: post
 title: Projects
 ---
 
-<a href="https://github.com/RushikeshJoshi4/KP-challenge-python-solitaire-tkinter">
-<b>Data Augmentation using GANs</b>
+<b>Data Augmentation using GANs</b> <a href="https://github.com/RushikeshJoshi4/KP-challenge-python-solitaire-tkinter">
+Code
 </a>
 
 I, along with my team, worked on GANs that can augment image data in such a way that it increease the image classification accuracy of simple classifiers.
