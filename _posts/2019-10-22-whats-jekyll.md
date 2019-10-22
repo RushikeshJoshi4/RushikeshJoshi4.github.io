@@ -1,12 +1,6 @@
 ---
 layout: post
-title: What's Jekyll?
+title: Hey! I'm Rishi, nice to meet you.
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
-
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
-
-It's an immensely useful tool and one we encourage you to use here with Hyde.
-
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+I'm a Computer Science graduate student at UCI with a strong background in software development. I have a knack for problem solving and like to challenge myself and to work on projects that demand research and critical thinking. I've worked on three major and several minor projects during my undergrad. I've also interned as a Technology Analyst at Morgan Stanley, where I used technologies such as Angular 5 and Java Spring to develop competitive software. I enjoy competitive programming. I strive to write clean and efficient code.
