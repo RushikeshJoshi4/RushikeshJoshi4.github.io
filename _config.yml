@@ -6,6 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 relative_permalinks: true
 
+
 # Setup
 title:            Hyde
 tagline:          'A Jekyll theme'
