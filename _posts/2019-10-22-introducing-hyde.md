@@ -3,7 +3,9 @@ layout: post
 title: Projects
 ---
 
-<h>Data Augmentation using GANs</h> <a href="https://github.com/RushikeshJoshi4/KP-challenge-python-solitaire-tkinter">Code</a>
+<a href="https://github.com/RushikeshJoshi4/KP-challenge-python-solitaire-tkinter">
+<b>Data Augmentation using GANs</b>
+</a>
 
 I, along with my team, worked on GANs that can augment image data in such a way that it increease the image classification accuracy of simple classifiers.
 * Used Generative Adversarial Networks for synthesizing more training data to improve image classification
