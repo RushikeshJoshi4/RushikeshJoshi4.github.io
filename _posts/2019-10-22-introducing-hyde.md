@@ -10,16 +10,15 @@ I, along with my team, worked on GANs that can augment image data in such a way 
 * Worked with Tensorflow and keras frameworks for implementing the custom neural network architecture
 
 
-### Price predictor of used products
+### Price predictor of used products <a href="#"></a>
 
 
 * NLP-based project to predict prices of used products from natural language descriptions
 Incorporated frameworks and libraries such as nltk, word2vec, Tensorflow
 
-* Simple Solitaire game
+### Simple Solitaire game
 
-
-### Created a solitaire game application, a Unix based desktop app as a part of Kleiner Perkins Fellowship Challenge using python and tkinter library
+* Created a solitaire game application, a Unix based desktop app as a part of Kleiner Perkins Fellowship Challenge using python and tkinter library
 
 * GRE prep application
 * Developed a web application of GRE flash-cards using Django and MongoDB 
